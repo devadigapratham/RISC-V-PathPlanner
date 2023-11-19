@@ -66,10 +66,6 @@ The RISC-V CPU design in Verilog includes modules for instruction fetch, decode,
 3. **Run Simulation/Execute on FPGA**: Start the simulation or execute the design on the FPGA.
 4. **Monitor Data Memory**: Observe the data memory to inspect the start, end, and computed node points forming the path.
 
-## Contributors
-
-- [Prathamesh Devadiga](https://github.com/devadigapratham)
-
 ## Acknowledgments
 
 This project draws inspiration from the need to integrate computational algorithms into hardware implementations for path planning and navigation.
